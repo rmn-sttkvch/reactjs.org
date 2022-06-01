@@ -67,6 +67,11 @@ September 29 - October 1, 2022. In-person in Alicante, Spain + remote (hybrid ev
 
 [Website](http://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante) - [Videos](https://www.youtube.com/channel/UCaSdUaITU1Cz6PvC97A7e0w)
 
+### React Advanced 2022 {#react-advanced-2022}
+October 21, 2022. In-person in London, UK
+
+[Website](https://reactadvanced.com) - [Twitter](http://twitter.com/reactadvanced) - [Facebook](https://www.facebook.com/ReactAdvanced) - [Videos](https://youtube.com/c/ReactConferences)
+
 ## Past Conferences {#past-conferences}
 
 ### Reactathon 2022 {#reactathon-2022} 
